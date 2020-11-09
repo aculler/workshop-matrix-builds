@@ -4,6 +4,8 @@ In this example you will learn about resources for verifying your software acros
 architectures concurrently, how to properly inject version information into Go binaries via a release
 workflow, and how to create an automated release with artifacts spanning multiple platforms and architectures.
 
+Testing
+
 ## Getting Started
 This is a GitHub template repo, so when you click "Use this template", it will create a new copy of this 
 template in your org or personal repo of choice. Once you have created a repo from this template, you 
